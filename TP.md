@@ -1,4 +1,4 @@
-CONTRIBUTORS =[ chibueze nwajiuba]flicts generator 1
+CONTRIBUTORS = ["Zelda Bakhos", "Oscar Daniel Camargo","Zakaria TIBTIBA", "Chibueze Nwajiuba"] # Conflicts generator 1]flicts generator 1
 
 def add(a, b):
     pass
