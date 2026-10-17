@@ -1,16 +1,17 @@
 CONTRIBUTORS = ["Zelda Bakhos", "Oscar Daniel Camargo","Zakaria TIBTIBA", "Chibueze Nwajiuba"] # Conflicts generator 1]flicts generator 1
 
 def add(a, b):
-    pass
+    return a + b
 
 def subtract(a, b):
     return(a - b)
 
 def multiply(a, b):
-    pass
+    return a * b
 
 def divide(a, b):
-    pass
+	c = a/b
+	return(c)
 
 if __name__ == "__main__":
     print(f"Welcome to the Group Calculator!, written by {CONTRIBUTORS}")
